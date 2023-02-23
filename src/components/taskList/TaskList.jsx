@@ -1,6 +1,8 @@
 
 
-const TaskList = () => {
+const TaskList = ({task, getTask}) => {
+
+  
   return (
     <div>
       
